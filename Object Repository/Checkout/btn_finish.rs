@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>btn_hamburger</name>
+   <name>btn_finish</name>
    <tag></tag>
-   <elementGuidId>dda05962-4cc7-4739-8485-5ac5df0d42a9</elementGuidId>
+   <elementGuidId>ebf04f09-5922-45e6-8b2b-0e396bdb832c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@id = 'react-burger-menu-btn']</value>
+         <value>//*[@data-test = 'finish']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -15,8 +15,8 @@
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>data-test</name>
       <type>Main</type>
-      <value>react-burger-menu-btn</value>
+      <value>finish</value>
    </webElementProperties>
 </WebElementEntity>

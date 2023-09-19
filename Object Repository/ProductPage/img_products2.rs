@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>btn_hamburger</name>
+   <name>img_products2</name>
    <tag></tag>
-   <elementGuidId>dda05962-4cc7-4739-8485-5ac5df0d42a9</elementGuidId>
+   <elementGuidId>91758285-3c2a-434c-a9a0-7a0678db2712</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@id = 'react-burger-menu-btn']</value>
+         <value>//*[@src = '/static/media/sauce-backpack-1200x1500.0a0b85a3.jpg']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -15,8 +15,8 @@
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>src</name>
       <type>Main</type>
-      <value>react-burger-menu-btn</value>
+      <value>/static/media/sauce-backpack-1200x1500.0a0b85a3.jpg</value>
    </webElementProperties>
 </WebElementEntity>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>btn_hamburger</name>
+   <name>txtLink_titleProduct1</name>
    <tag></tag>
-   <elementGuidId>dda05962-4cc7-4739-8485-5ac5df0d42a9</elementGuidId>
+   <elementGuidId>4e6eb9e3-cab0-4bac-a7a2-ebcaa14ff133</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@id = 'react-burger-menu-btn']</value>
+         <value>/html/body/div/div/div/div[2]/div/div/div/div[1]/div[2]/div[1]/a/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -15,8 +15,8 @@
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>xpath</name>
       <type>Main</type>
-      <value>react-burger-menu-btn</value>
+      <value>/html/body/div/div/div/div[2]/div/div/div/div[1]/div[2]/div[1]/a/div</value>
    </webElementProperties>
 </WebElementEntity>

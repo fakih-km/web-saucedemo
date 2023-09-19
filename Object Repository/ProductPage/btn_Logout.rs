@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>btn_Logout</name>
+   <name>btn_logout</name>
    <tag></tag>
    <elementGuidId>e12609b1-5ab3-447b-87c3-3fd69c4fe94b</elementGuidId>
    <selectorCollection>
