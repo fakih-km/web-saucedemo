@@ -3,6 +3,8 @@
    <description></description>
    <name>Login_Failed</name>
    <tag></tag>
-   <comment></comment>
+   <comment>login failed (username null)
+login failed (password null)
+login failed (wrong username or password)</comment>
    <testCaseGuid>3d96db85-34f3-4efe-a60b-2ea77409b3a5</testCaseGuid>
 </TestCaseEntity>

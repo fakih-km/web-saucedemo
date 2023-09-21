@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Shopping with normal flow</name>
+   <name>Shopping success</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>e800c070-9df5-4cfb-99de-ba3a1baaacdc</testCaseGuid>
