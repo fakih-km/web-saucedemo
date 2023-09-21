@@ -6,6 +6,7 @@
    <UUID>4afae3fc-6ee5-43bb-8325-d11730ee82cf</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>D:\automation\web-saucedemo\web-saucedemo.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
